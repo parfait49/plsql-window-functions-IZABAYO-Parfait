@@ -50,7 +50,7 @@ Sample data is provided in [sql/sample_data.sql](sql/sample_data.sql).
 
  Step 4: Window Functions Implementation 
 
-Queries for all categories are included in [sql/queries.sql](Assaignment 1/) folder.
+Queries for all categories are included in [Assaignment 1/](sql/queries.sql) folder.
 
 
  Ranking (ROW_NUMBER, RANK, DENSE_RANK, PERCENT_RANK) → Top customers by revenue.
@@ -80,7 +80,7 @@ Room nights and F&B combos were top products in most regions. Revenue peaked in 
 Diagnostic – Why?
 Seasonality, holidays, and tourism caused spikes. Corporate and repeat customers dominated top quartiles. Promotions in low season raised transactions but reduced average booking value.
 
-*Prescriptive – What next?*
+Prescriptive – What next?
 Focus loyalty packages and contracts on top-spending quartiles. Adjust staffing and resources using 3-month moving averages. Offer bundled room + F&B packages in off-peak months to increase bookings.
 
  Step 7: References 
@@ -96,5 +96,3 @@ Focus loyalty packages and contracts on top-spending quartiles. Adjust staffing 
 9. Local Tourism Board Reports
 10. Academic Papers on Customer Segmentation
 
-
-Would you like me to now also **generate the folder structure with SQL script stubs** (`01_ranking.sql`, `02_aggregate.sql`, etc.) so you can upload them directly to your GitHub?
