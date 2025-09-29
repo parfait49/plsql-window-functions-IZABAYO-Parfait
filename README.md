@@ -50,7 +50,8 @@ Sample data is provided in [sql/sample_data.sql](sql/sample_data.sql).
 
  Step 4: Window Functions Implementation 
 
-Queries for all categories are included in [sql/queries.sql](Assaignment 1/) 
+Queries for all categories are included in [Queries](Assaignment 1/sql/queries.sql)
+
 
  Ranking (ROW_NUMBER, RANK, DENSE_RANK, PERCENT_RANK) → Top customers by revenue.
  Aggregate (SUM, AVG, MIN, MAX with ROWS vs RANGE) → Running totals and moving averages.
